@@ -1,12 +1,12 @@
 # hosambadawi.github.io
 
-Personal site for **Hosam Mahmoud Ibrahim** — AI Systems Architect & Agentic AI Engineer.
+Personal site for **Hosam Mahmoud Ibrahim**, AI Systems Architect & Agentic AI Engineer.
 
 **Live:** https://hosambadawi.github.io/
 
 ## What's here
 
-Single-page portfolio, no build step. Everything is a static file — GitHub Pages
+Single-page portfolio, no build step. Everything is a static file, and GitHub Pages
 serves it as-is.
 
 ```
@@ -18,7 +18,7 @@ fonts/          self-hosted Inter + JetBrains Mono subsets
 ## Notes
 
 - **No dependencies, no build.** Edit `index.html` and push; the change is live.
-- **Fonts are self-hosted** rather than loaded from Google Fonts — no third-party
+- **Fonts are self-hosted** rather than loaded from Google Fonts, so there is no third-party
   request, no layout shift, works offline.
 - **Architecture diagrams are inline SVG** and inherit the CSS colour variables,
   so re-theming the page re-themes the diagrams.
